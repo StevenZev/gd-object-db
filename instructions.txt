@@ -1,0 +1,13 @@
+Pages to scrape:
+https://geometry-dash.fandom.com/wiki/Objects
+https://geometry-dash.fandom.com/wiki/Transporters
+https://geometry-dash.fandom.com/wiki/Portals
+
+Write code which scrapes all images from the above pages, images have addresses containing https://static.wikia.nocookie.net/geometry-dash/images/.
+
+
+https://geometry-dash.fandom.com/wiki/Objects has multiple #-header subsections.
+
+Start with an implementation which scrapes from https://geometry-dash.fandom.com/wiki/Portals into a folder called Images/Portals.
+
+Wait to expand to the other pages until this is confirmed working.
